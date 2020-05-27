@@ -1,0 +1,36 @@
+body {
+background-color: yellow;
+border-color: red;
+}
+
+h1 {
+color: red;
+border-top-color: red;
+border-left-color: red;
+border-right-color: red;
+border-bottom-color: red;
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #f1ad53;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+h2 {
+  color: red;
+}
