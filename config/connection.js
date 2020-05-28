@@ -7,10 +7,10 @@ if (process.env.JAWSBD_URL) {
   connection = mysql.createConnection(process.env.JAWSBD_URL);
 } else {
   connection = mysql.createConnection({
-    host: `localhost`,
-    user: `host`,
-    password: `hacktheplanet`,
-    database: `todoagain_db`
+    host: `jj820qt5lpu6krut.cbetxkdyhwsb.us-east-1.rds.amazonaws.com`,
+    user: `u5nclcxrnvaoy6f5`,
+    password: `xsh4rcq0sb3o55jg`,
+    database: `wehie48l4kero1bj`
   });
 };
 
